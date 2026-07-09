@@ -72,4 +72,4 @@ Pertanyaannya: apakah iklan benar-benar merugi, atau ada budget boros yang menut
 
 ---
 
-*Dibuat oleh **Ghifarry Al Naffriza Shahdan** — Regional Economic Development, Sekolah Vokasi UGM*
+*Dibuat oleh **Ghifarry Al Naffriza Shahdan** 
